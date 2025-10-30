@@ -46,6 +46,8 @@ Finding total resistance per meter:
 
 $$\frac{.16\Omega}{60.98m} = .00262\frac{\Omega}{m}$$
 
+$$.00262\frac{\Omega}{m}$$
+
 4.  Finding current AWG based on chart:
 <img width="1865" height="960" alt="image" src="https://github.com/user-attachments/assets/e1fded3f-a896-498b-93ca-04d020759b73" />
 
@@ -79,5 +81,5 @@ $$E = P*t$$
 
 $$E = 1168*2h = 2336Wh$$
 
-$$.00262\frac{\Omega}{m}$$
+
 

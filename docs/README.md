@@ -1,1 +1,1 @@
-# docs directory
+docs directory

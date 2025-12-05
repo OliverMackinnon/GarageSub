@@ -8,7 +8,7 @@ The Garagesub is designed to be a robust and accessible platform for aquatic obs
 
 <br>
 
-<img src="GarageSubMainPage.png" alt="Garagesub ROV Underwater" width="800"/>
+<img src="docs/GarageSubMainPage.png" alt="Garagesub ROV Underwater" width="800"/>
 
 <br>
 

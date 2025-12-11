@@ -30,7 +30,7 @@ Ready to build your own? Check out our documentation hub for full build instruct
 * **High Maneuverability:** Equipped with six powerful thrusters offering 6 degrees of freedom.
 * **Depth-Rated Design:** Engineered to operate effectively at significant depths.
 * **Integrated Camera:** Features a high-definition camera for real-time video feeds and observation.
-
+* **Low Cost:** Total build cost is roughly $1000 which is considerably less expensive than similar commercial options.
 
 ### Our Mission
 

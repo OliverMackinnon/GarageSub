@@ -12,6 +12,17 @@ The Garagesub is designed to be a robust and accessible platform for aquatic obs
 
 <br>
 
+## Documentation 📚
+
+Ready to build your own? Check out our documentation hub for full build instructions and operating procedures.
+
+**[👉 Click here to enter the Documentation Hub](docs/)**
+
+* **[Tutorials](docs/Tutorials):** Step-by-step lessons for first-time builders.
+* **[How-To Guides](docs/How-To-Guides):** Solutions to specific problems (like potting penetrators or balancing buoyancy).
+* **[Reference](docs/References):** Technical datasheets, wiring diagrams, and parts lists.
+* **[Explanation](docs/Explanation):** Background information on design choices and physics.
+
 ### Key Features
 
 * **Modular Frame:** Built with durable aluminum extrusions, the frame is easily modifiable and expandable.

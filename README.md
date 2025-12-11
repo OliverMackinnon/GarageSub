@@ -12,11 +12,11 @@ The Garagesub is designed to be a robust and accessible platform for aquatic obs
 
 <br>
 
-## Documentation 📚
+## Documentation
 
 Ready to build your own? Check out our documentation hub for full build instructions and operating procedures.
 
-**[👉 Click here to enter the Documentation Hub](docs/)**
+**[Click here to enter the Documentation Hub](docs/)**
 
 * **[Tutorials](docs/Tutorials):** Step-by-step lessons for first-time builders.
 * **[How-To Guides](docs/How-To-Guides):** Solutions to specific problems (like potting penetrators or balancing buoyancy).
@@ -25,11 +25,12 @@ Ready to build your own? Check out our documentation hub for full build instruct
 
 ### Key Features
 
+* **Open-Source Hardware:** All designs and schematics are freely available to the community.
 * **Modular Frame:** Built with durable aluminum extrusions, the frame is easily modifiable and expandable.
-* **High-Thrust Propulsion:** Equipped with four powerful thrusters for precise maneuvering and stability.
+* **High Maneuverability:** Equipped with six powerful thrusters offering 6 degrees of freedom.
 * **Depth-Rated Design:** Engineered to operate effectively at significant depths.
 * **Integrated Camera:** Features a high-definition camera for real-time video feeds and observation.
-* **Open-Source Hardware:** All designs and schematics are freely available to the community.
+
 
 ### Our Mission
 

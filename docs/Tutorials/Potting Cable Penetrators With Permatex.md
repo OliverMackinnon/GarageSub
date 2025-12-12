@@ -15,9 +15,9 @@ pressure changes of deep dives.
 
 - Isopropyl Alcohol
 
-- Sandpaper
+- Sandpaper (160 grit)
 
-- Disposable Gloves (160 grit)
+- Disposable Gloves 
 
 # Preparation
 
@@ -58,3 +58,4 @@ pressure changes of deep dives.
 
 2.  Look at the edges where the black silicone meets the cables. There
     should be no gaps or lifted edges.
+
